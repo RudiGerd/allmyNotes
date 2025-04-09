@@ -1,0 +1,6 @@
+*.log
+.venv
+.obsidian
+.env
+allmystery.json
+allmy_llm_input.json
